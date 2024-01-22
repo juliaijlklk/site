@@ -1,0 +1,17 @@
+body {
+text-align: center;
+
+}
+.menu{
+    list-style: none;
+    position: absolute;
+    z-index:  10 ;
+    cursor: pointer;
+}
+.links{
+    float: left;
+    padding: 5px;
+}
+#Videos {
+    margin: 20px;
+}
